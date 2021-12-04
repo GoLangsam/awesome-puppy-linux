@@ -231,7 +231,6 @@ Visit the [Puppy forums](https://forum.puppylinux.com/) for many more Puppy Linu
 - [Ranger](https://github.com/ranger/ranger) - a very powerul and easy to use terminal based file manager, with support for Vim key bindings, plugins and more.
 - [ROX](http://rox.sourceforge.net/desktop/ROX-Filer) - The ROX-filer file manager is an excellent, powerful file manager with many features, such as executing shell commands, custom right click options and more.
 - [Synapse](https://launchpad.net/ubuntu/xenial/+source/synapse) - Best application launcher on linux.![Freeware][freeware icon]
-- [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.![Freeware][freeware icon]
 
 ### Filesystem
 
